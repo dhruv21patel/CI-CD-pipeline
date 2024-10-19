@@ -5,7 +5,7 @@ on:
     branches:
       - Feature
 
-job:
+jobs:
   build:
     runs-on: ubuntu-latest
 
